@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../:\Projects\github\jenkinsDemo\.idea/dataSources/
+/../../../../../../:\Projects\CICD\spring-boot-api-example\spring-boot-api-example\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
